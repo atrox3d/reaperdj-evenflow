@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1696918246
+<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1696918810
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 115.96709080316167 0 0
+  CURSOR 170.83844276134417
+  ZOOM 5.12381134331223 0 0
   VZOOMEX 5 0
   USE_REC_CFG 0
   RECMODE 1
@@ -1663,13 +1663,13 @@
     <ITEM
       POSITION 3.14656251429002
       SNAPOFFS 0
-      LENGTH 281.99970325341769
+      LENGTH 1.3394187941212
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {1782E74A-B19E-FA41-839C-029BF3AEC193}
       IID 233
       NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
@@ -1678,6 +1678,462 @@
       PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {492BCE75-756E-0049-97C8-5EA5AA0A5EFE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.48598130841122
+      SNAPOFFS 0
+      LENGTH 6.82120152309106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 19005439 B
+      SEL 0
+      IGUID {971CBC81-8BF9-C94B-AFBE-D2FB2F23ADE9}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.34226032502174
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9ADE30E5-B86C-2B4E-905E-0B93C9DEB518}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 11.30718283150228
+      SNAPOFFS 0
+      LENGTH 1.12149532710254
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {22BD97E1-3F36-0D49-85D1-BD296E348382}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.85102400232104
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF5D7A57-E195-4043-890A-2AB7327D66BC}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 12.42867815860482
+      SNAPOFFS 0
+      LENGTH 4.52735001479169
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {AEFB0256-F1D9-BD42-A54B-9214F34CFEF0}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.92115043453325
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51C0656F-8082-124B-AE72-95DE790B0F9D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 16.9560281733965
+      SNAPOFFS 0
+      LENGTH 33.48594575881542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 19005190 B
+      SEL 0
+      IGUID {43CA8D92-D44A-4549-9848-A587577FB19A}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.24113002037948
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D708E7C9-AB12-3340-AE5D-7A4247756A49}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 50.44197393221192
+      SNAPOFFS 0
+      LENGTH 1.11565637783543
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554186 B
+      SEL 0
+      IGUID {5618FE13-C2F0-5449-A554-2A3FA59144DD}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 54.1932878209054
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DA92493-0260-4449-956A-F7613B704E13}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 51.55763031004735
+      SNAPOFFS 0
+      LENGTH 6.78544116059193
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554186 B
+      SEL 0
+      IGUID {2703C122-0615-ED4B-92F0-6332962EB92B}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 55.25784275068146
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74BBE9C9-755B-5C47-B764-F82E64FBAA73}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 58.34307147063928
+      SNAPOFFS 0
+      LENGTH 3.36953219894833
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33390600 B
+      SEL 0
+      IGUID {70D5B276-EE00-4F48-B5A5-2F4647172CF1}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.73248403066802
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D333DE24-7D27-3E43-AD5E-2456C0989851}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 61.71260366958761
+      SNAPOFFS 0
+      LENGTH 28.5633089704357
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33227271 B
+      SEL 0
+      IGUID {07F4FB71-328F-B045-8999-BFC8BB4EBD32}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 64.94767840833934
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5EDB899-1CD9-1C45-803C-311A7BD426C2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 90.27591264002331
+      SNAPOFFS 0
+      LENGTH 33.4488293976505
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 19005190 B
+      SEL 0
+      IGUID {AE92067F-92D5-484E-8420-1C864CCABEC8}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 92.2026755376432
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D990D40A-1E41-CD4B-9FC1-0A61106A2B26}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 123.72474203767381
+      SNAPOFFS 0
+      LENGTH 3.32483466535231
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554186 B
+      SEL 0
+      IGUID {9D4758FA-0410-7E45-B0FC-258A11EAE962}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 124.11941705226026
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1C3C34A-484D-2547-BF45-3F2478F6E326}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 127.04957670302612
+      SNAPOFFS 0
+      LENGTH 39.38158971917413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33227271 B
+      SEL 0
+      IGUID {05C80E52-0298-B344-BBAE-A927260D285F}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 127.29196121909266
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6F874C4-37A7-5346-80B7-05362B1B0488}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 166.43116642220025
+      SNAPOFFS 0
+      LENGTH 8.67594943409878
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 17793279 B
+      SEL 0
+      IGUID {88F1491A-7546-7E4E-8117-FAC3761EF6FF}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 164.86971930918207
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2124195F-08B8-9049-B871-53028B92FBAD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 175.10711585629903
+      SNAPOFFS 0
+      LENGTH 25.52609857783162
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 25166079 B
+      SEL 0
+      IGUID {9CC326C3-B2CB-2540-8CB5-88D6EE9391A1}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 173.14827615163676
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E767532E-52D2-5542-8941-2107EFD78538}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 200.63321443413065
+      SNAPOFFS 0
+      LENGTH 8.59680352928945
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 17793279 B
+      SEL 0
+      IGUID {32173ADC-01C0-434C-B7DE-7217D79E73E9}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 197.50517906443383
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {424487F2-F2C5-484A-9F13-1AA7331E8C88}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 209.2300179634201
+      SNAPOFFS 0
+      LENGTH 17.47741778356243
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33390600 B
+      SEL 0
+      IGUID {6B741F43-D6E3-D849-8439-9549A2DEB529}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 205.70821519566394
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70D0B4BD-8B9B-0A48-A735-72E1B0B18DB2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 226.70743574698253
+      SNAPOFFS 0
+      LENGTH 32.72445342274892
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33227271 B
+      SEL 0
+      IGUID {CF703185-E989-C944-9E1A-14F7EDDB840F}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 222.3850985361648
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {899F0BFF-D5ED-584F-A688-728315A8C05B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 259.43188916973145
+      SNAPOFFS 0
+      LENGTH 6.50537380518631
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554186 B
+      SEL 0
+      IGUID {B8B5F45A-FFE5-1C4A-94BE-BD3115505CAC}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 253.61064334325354
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DED26314-DAA8-2543-8785-2D326F5234ED}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 265.93726297491776
+      SNAPOFFS 0
+      LENGTH 15.19459209078497
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 17858688 B
+      SEL 0
+      IGUID {91B3EC3E-3252-3F44-9AD1-6442F67ABCFE}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 259.8180454537345
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA285A72-BD27-C341-9EC8-AFACDF1FBE90}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 281.13185506570272
+      SNAPOFFS 0
+      LENGTH 4.01441070200501
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 1
+      IGUID {CB43165B-5FFC-5842-8CB2-299DDF397F21}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 274.31666549260774
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {081EEFDD-04FF-3146-A117-3A5BE77334DF}
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
@@ -1786,7 +2242,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {D399D3E6-0812-D84E-8740-0F6C9B3B4CDD}
       IID 232
       NAME "pearl-jam-even-flow-drum-cover-bass-G major-112bpm.m4a"
@@ -1833,7 +2289,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {8E5AA0A8-4599-7C40-BABA-132309F1E46B}
       IID 234
       NAME "pearl-jam-even-flow-drum-cover-other-G major-112bpm.m4a"
@@ -1880,7 +2336,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {166C5A30-E125-5443-BFFC-5ABF201E3FBC}
       IID 235
       NAME "pearl-jam-even-flow-drum-cover-vocals-G major-112bpm.m4a"
