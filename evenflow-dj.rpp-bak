@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1696917588
+<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1696918246
   <NOTES 0 2
   >
   RIPPLE 0
@@ -17,8 +17,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 45.29564647945273 0 0
-  VZOOMEX 2 0
+  ZOOM 115.96709080316167 0 0
+  VZOOMEX 5 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -230,531 +230,6 @@
   MARKER 19 281.13185506570272 FINALE 1 33554431 1 B {7BA4DF0E-8976-46CF-A751-DD638B44155E}
   MARKER 19 283.32890023333908 "" 1 33554431 1 B
   <PROJBAY
-  >
-  <TRACK {02259756-828C-458A-B155-9858F5E21F45}
-    NAME DRUMS
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {02259756-828C-458A-B155-9858F5E21F45}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.31140186915888
-      SNAPOFFS 0
-      LENGTH 1.17457943925234
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009626 0 1 0 0 0
-      FADEOUT 1 0.009626 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BB3EFA50-AD5D-44FB-A2A0-6965388AF0E1}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1.03883495145632 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DF2B42B7-B6F1-41CE-A098-DDEDF8F29CDA}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 4.48598130841122
-      SNAPOFFS 0
-      LENGTH 6.82120152309106
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009618 0 1 0 0 0
-      FADEOUT 1 0.009626 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {259C4563-1998-453A-A649-CC2774FA602F}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 1.22019417475729
-      PLAYRATE 1.03939209076598 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AF3FDDF8-AEC0-4465-A575-9249C6691377}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 11.30718283150228
-      SNAPOFFS 0
-      LENGTH 1.12149532710254
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009626 0 1 0 0 0
-      FADEOUT 1 0.009626 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 B
-      SEL 0
-      IGUID {3928AB0A-8192-483E-BD24-912E2DC9E954}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 8.310097087379
-      PLAYRATE 1.03883495145627 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5A021A26-3022-4C7B-B734-272C3149CFC2}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 12.42867815860482
-      SNAPOFFS 0
-      LENGTH 4.52735001479169
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009623 0 1 0 0 0
-      FADEOUT 1 0.009623 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 B
-      SEL 0
-      IGUID {351C8D2A-8202-4953-A45A-A8FEDDE21C25}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 9.475145631068
-      PLAYRATE 1.03920711974113 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {167F50B8-F9D1-445E-ABE4-1663E7320EDB}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 16.9560281733965
-      SNAPOFFS 0
-      LENGTH 33.48594575881543
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009629 0 1 0 0 0
-      FADEOUT 1 0.009626 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16842496 B
-      SEL 0
-      IGUID {1DDCA344-A362-47D0-9393-5DE897A3E5EE}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 14.17999999999963
-      PLAYRATE 1.03864469740546 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {83D637DE-2FE3-49DC-8A3D-4270D9857A52}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 50.44197393221192
-      SNAPOFFS 0
-      LENGTH 1.11565637783543
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009628 0 1 0 0 0
-      FADEOUT 1 0.009628 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554176 B
-      SEL 0
-      IGUID {F571FCA1-A305-4C72-BF4F-2AFEE4B7A358}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 48.96
-      PLAYRATE 1.03862495171872 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5A1ED232-23D1-446A-8089-1F7CD68AC3F3}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 51.55763031004735
-      SNAPOFFS 0
-      LENGTH 6.78544116059193
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009623 0 1 0 0 0
-      FADEOUT 1 0.009623 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554176 B
-      SEL 0
-      IGUID {16CEC03C-BA2B-4510-AFC3-C644430A5A16}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 50.118748551564
-      PLAYRATE 1.039173619158 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AF25F473-C602-4DFF-9241-8C8E021484A8}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 58.34307147063928
-      SNAPOFFS 0
-      LENGTH 3.36953219894833
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009634 0 1 0 0 0
-      FADEOUT 1 0.009621 0 1 0 0 0
-      MUTE 0 0
-      COLOR 32304128 B
-      SEL 0
-      IGUID {7C238440-FD84-4690-9F6B-0202FCE25A2B}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 57.17
-      PLAYRATE 1.03890578335669 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D1113048-1446-4C7D-9C1F-49B48DA48998}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 61.71260366958761
-      SNAPOFFS 0
-      LENGTH 28.5633089704357
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009628 0 1 0 0 0
-      FADEOUT 1 0.009632 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33488896 B
-      SEL 0
-      IGUID {A05FF48B-E256-4A63-8378-6F0E17DB24DE}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 60.67062648869399
-      PLAYRATE 1.03802306455426 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B10830C8-1B75-4C26-ABE9-355B84DE0D5E}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 90.27591264002331
-      SNAPOFFS 0
-      LENGTH 33.4488293976505
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009632 0 1 0 0 0
-      FADEOUT 1 0.009626 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16842496 B
-      SEL 0
-      IGUID {043331D7-A6F9-4EBC-A426-C68044096579}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 90.31999999999579
-      PLAYRATE 1.03860136888511 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FB08D4F4-054F-4EF9-8704-4C53E54B9C94}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 123.72474203767381
-      SNAPOFFS 0
-      LENGTH 3.32483466535231
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009628 0 1 0 0 0
-      FADEOUT 1 0.009632 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554176 B
-      SEL 0
-      IGUID {D356E331-C3E1-4AC5-9376-9E7307190837}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 125.06
-      PLAYRATE 1.03836090217743 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1E1370B2-775F-455F-88FD-F26ACA54D7D8}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 127.04957670302612
-      SNAPOFFS 0
-      LENGTH 39.38158971917413
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009621 0 1 0 0 0
-      FADEOUT 1 0.009635 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33488896 B
-      SEL 0
-      IGUID {5ACF5176-F469-4D46-80AC-6D9EBED243A7}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 128.51237832270601
-      PLAYRATE 1.03785407374072 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3226D62F-4437-4ADC-A692-B86B8F9BC423}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 166.43116642220025
-      SNAPOFFS 0
-      LENGTH 8.67594943409878
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009633 0 1 0 0 0
-      FADEOUT 1 0.009644 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16810176 B
-      SEL 0
-      IGUID {61177BB0-248D-4657-B7DF-917ADFB5F219}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 169.38472164313663
-      PLAYRATE 1.03751591280377 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BBD91E8B-51B0-46E1-9422-9677157BE684}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 175.10711585629903
-      SNAPOFFS 0
-      LENGTH 25.52609857783162
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009644 0 1 0 0 0
-      FADEOUT 1 0.009644 0 1 0 0 0
-      MUTE 0 0
-      COLOR 25166079 B
-      SEL 0
-      IGUID {5CE4935A-AF45-4416-8AD8-1A88D1B95CF7}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 178.38615723969502
-      PLAYRATE 1.03675705332438 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {09723F3F-4C30-41DB-93C1-282C0E44DBD5}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 200.63321443413065
-      SNAPOFFS 0
-      LENGTH 8.59680352928945
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009642 0 1 0 0 0
-      FADEOUT 1 0.009642 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16810176 B
-      SEL 0
-      IGUID {57B1B913-2BF3-467E-B277-F9E04A0405D2}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 204.85051998411527
-      PLAYRATE 1.03715075530674 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2861FB95-3D98-437C-A747-4167AD65A66F}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 209.2300179634201
-      SNAPOFFS 0
-      LENGTH 17.47741778356243
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009638 0 1 0 0 0
-      FADEOUT 1 0.009634 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33521728 B
-      SEL 0
-      IGUID {A8FA04DF-2BA9-4035-B520-073B8E762D20}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 213.76670125774146
-      PLAYRATE 1.0377881577844 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9CF276CA-8145-4179-83EE-1E670087924F}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 226.70743574698253
-      SNAPOFFS 0
-      LENGTH 32.72445342274892
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.00963 0 1 0 0 0
-      FADEOUT 1 0.009635 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33488896 B
-      SEL 0
-      IGUID {164253D6-748E-4F2A-8A9D-A65A4E8590FD}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 231.90455846217301
-      PLAYRATE 1.03774502195892 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {24C36FE7-9DF2-449B-864D-63C65ADC2430}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 259.43188916973145
-      SNAPOFFS 0
-      LENGTH 6.50537380518631
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009638 0 1 0 0 0
-      FADEOUT 1 0.009639 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554176 B
-      SEL 0
-      IGUID {9AC3D09E-CE53-4F06-87B3-B8A4F7D60F79}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 265.86419709795717
-      PLAYRATE 1.03749619434764 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {78FE189E-49F0-48C3-8529-931D80637F5C}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 265.93726297491776
-      SNAPOFFS 0
-      LENGTH 15.19459209078497
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009636 0 1 0 0 0
-      FADEOUT 1 0.009642 0 1 0 0 0
-      MUTE 0 0
-      COLOR 21004416 B
-      SEL 0
-      IGUID {F08F1F4D-04E4-4237-B7DB-0F215FCF701F}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 272.6134976636468
-      PLAYRATE 1.03753658682502 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {91B4DFC3-1B18-48DD-A478-34167E7D4E87}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 281.13185506570272
-      SNAPOFFS 0
-      LENGTH 2.19704516763636
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009634 0 1 0 0 0
-      FADEOUT 1 0.009634 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 B
-      SEL 0
-      IGUID {33615916-7252-4C41-81B6-0EE7CCF12EB7}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 288.37844287971831
-      PLAYRATE 1.03800921897522 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1902A8D9-D467-4A82-8BF1-FD65C9938A98}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
-    <ITEM
-      POSITION 283.32890023333908
-      SNAPOFFS 0
-      LENGTH 2.53659007418997
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009634 0 1 0 0 0
-      FADEOUT 1 0.009634 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7D90C203-D33D-490F-BCE6-F97D7EFF3EBF}
-      IID 2
-      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 290.6589960182298
-      PLAYRATE 1.03800921897519 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2EF0F05A-33F9-4E15-A2C4-C4AB325AC4AE}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
-      >
-    >
   >
   <TRACK {D4023FCD-D48C-49BE-965F-8DDA401B42B2}
     NAME CLICK
@@ -2162,8 +1637,55 @@
       >
     >
   >
-  <TRACK {C619570C-FC0D-4F4F-B46D-A8ABBFD8C0BE}
-    NAME PARTS
+  <TRACK {5B98AD2B-33DE-534E-82CD-4D30EE839ED0}
+    NAME DRUMS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5B98AD2B-33DE-534E-82CD-4D30EE839ED0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.14656251429002
+      SNAPOFFS 0
+      LENGTH 281.99970325341769
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {1782E74A-B19E-FA41-839C-029BF3AEC193}
+      IID 233
+      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.06419217729789
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {492BCE75-756E-0049-97C8-5EA5AA0A5EFE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
+      >
+    >
+  >
+  <TRACK {391C0569-4944-624B-B912-FF3B3BCA653A}
+    NAME VIDEO
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2172,7 +1694,218 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {391C0569-4944-624B-B912-FF3B3BCA653A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {7407EC5C-CA74-C747-BD3C-CC4B2C0E2766}
+    NAME VIDEO
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7407EC5C-CA74-C747-BD3C-CC4B2C0E2766}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.95164748236214
+      SNAPOFFS 0
+      LENGTH 282.58440612631875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009626 0 1 0 0 0
+      FADEOUT 1 0.009634 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {49C529F2-DB2F-6247-846F-62C062DD3030}
+      IID 227
+      NAME pearl-jam-even-flow-drum-cover.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 8.83747572813323
+      PLAYRATE 0.9542000062363 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC7BBFFE-45F7-2B42-830D-51653271DC59}
+      <SOURCE VIDEO
+        FILE "video-in/pearl-jam-even-flow-drum-cover.mp4"
+      >
+    >
+  >
+  <TRACK {AA4EE812-FA8D-B148-A9EF-2149F08A081F}
+    NAME BASS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AA4EE812-FA8D-B148-A9EF-2149F08A081F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.14656251429002
+      SNAPOFFS 0
+      LENGTH 281.99970325341769
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D399D3E6-0812-D84E-8740-0F6C9B3B4CDD}
+      IID 232
+      NAME "pearl-jam-even-flow-drum-cover-bass-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.06419217729789
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {919CE7A0-EBD0-3946-A4DF-820B58605F71}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-bass-G major-112bpm.m4a"
+      >
+    >
+  >
+  <TRACK {1C5F41A7-AA8E-CC4F-AE17-39219FDC8AD1}
+    NAME GUITAR
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1C5F41A7-AA8E-CC4F-AE17-39219FDC8AD1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.14656251429002
+      SNAPOFFS 0
+      LENGTH 281.99970325341769
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8E5AA0A8-4599-7C40-BABA-132309F1E46B}
+      IID 234
+      NAME "pearl-jam-even-flow-drum-cover-other-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.06419217729789
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CEBA2F8-A257-684F-B83F-3D325FAA0AF9}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-other-G major-112bpm.m4a"
+      >
+    >
+  >
+  <TRACK {5930B889-7726-AF4B-8C85-BBC7217D9C00}
+    NAME VOX
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5930B889-7726-AF4B-8C85-BBC7217D9C00}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.14656251429002
+      SNAPOFFS 0
+      LENGTH 281.99970325341769
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {166C5A30-E125-5443-BFFC-5ABF201E3FBC}
+      IID 235
+      NAME "pearl-jam-even-flow-drum-cover-vocals-G major-112bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.06419217729789
+      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE9AFA55-9E2A-804F-A57F-95B6BF8FDD71}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/pearl-jam-even-flow-drum-cover-vocals-G major-112bpm.m4a"
+      >
+    >
+  >
+  <TRACK {C619570C-FC0D-4F4F-B46D-A8ABBFD8C0BE}
+    NAME PARTS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 1 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -2186,8 +1919,8 @@
     MIDIOUT -1
     MAINSEND 1 0
   >
-  <TRACK {56ED1BE7-308C-4F87-AC79-4CEFC8A23953}
-    NAME GUITAR
+  <TRACK {02259756-828C-458A-B155-9858F5E21F45}
+    NAME DRUMS
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2205,31 +1938,555 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {56ED1BE7-308C-4F87-AC79-4CEFC8A23953}
+    TRACKID {02259756-828C-458A-B155-9858F5E21F45}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
       POSITION 3.31140186915888
       SNAPOFFS 0
-      LENGTH 282.55408843837023
+      LENGTH 1.17457943925234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009626 0 1 0 0 0
+      FADEOUT 1 0.009626 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB3EFA50-AD5D-44FB-A2A0-6965388AF0E1}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.03883495145632 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF2B42B7-B6F1-41CE-A098-DDEDF8F29CDA}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.48598130841122
+      SNAPOFFS 0
+      LENGTH 6.82120152309106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009618 0 1 0 0 0
+      FADEOUT 1 0.009626 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {259C4563-1998-453A-A649-CC2774FA602F}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.22019417475729
+      PLAYRATE 1.03939209076598 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF3FDDF8-AEC0-4465-A575-9249C6691377}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 11.30718283150228
+      SNAPOFFS 0
+      LENGTH 1.12149532710254
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009626 0 1 0 0 0
+      FADEOUT 1 0.009626 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {3928AB0A-8192-483E-BD24-912E2DC9E954}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.310097087379
+      PLAYRATE 1.03883495145627 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A021A26-3022-4C7B-B734-272C3149CFC2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 12.42867815860482
+      SNAPOFFS 0
+      LENGTH 4.52735001479169
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009623 0 1 0 0 0
+      FADEOUT 1 0.009623 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {351C8D2A-8202-4953-A45A-A8FEDDE21C25}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.475145631068
+      PLAYRATE 1.03920711974113 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {167F50B8-F9D1-445E-ABE4-1663E7320EDB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 16.9560281733965
+      SNAPOFFS 0
+      LENGTH 33.48594575881543
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009629 0 1 0 0 0
+      FADEOUT 1 0.009626 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 B
+      SEL 0
+      IGUID {1DDCA344-A362-47D0-9393-5DE897A3E5EE}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.17999999999963
+      PLAYRATE 1.03864469740546 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83D637DE-2FE3-49DC-8A3D-4270D9857A52}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 50.44197393221192
+      SNAPOFFS 0
+      LENGTH 1.11565637783543
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009628 0 1 0 0 0
+      FADEOUT 1 0.009628 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 B
+      SEL 0
+      IGUID {F571FCA1-A305-4C72-BF4F-2AFEE4B7A358}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 48.96
+      PLAYRATE 1.03862495171872 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A1ED232-23D1-446A-8089-1F7CD68AC3F3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 51.55763031004735
+      SNAPOFFS 0
+      LENGTH 6.78544116059193
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009623 0 1 0 0 0
+      FADEOUT 1 0.009623 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 B
+      SEL 0
+      IGUID {16CEC03C-BA2B-4510-AFC3-C644430A5A16}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 50.118748551564
+      PLAYRATE 1.039173619158 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF25F473-C602-4DFF-9241-8C8E021484A8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 58.34307147063928
+      SNAPOFFS 0
+      LENGTH 3.36953219894833
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009634 0 1 0 0 0
+      FADEOUT 1 0.009621 0 1 0 0 0
+      MUTE 0 0
+      COLOR 32304128 B
+      SEL 0
+      IGUID {7C238440-FD84-4690-9F6B-0202FCE25A2B}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 57.17
+      PLAYRATE 1.03890578335669 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1113048-1446-4C7D-9C1F-49B48DA48998}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 61.71260366958761
+      SNAPOFFS 0
+      LENGTH 28.5633089704357
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009628 0 1 0 0 0
+      FADEOUT 1 0.009632 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 B
+      SEL 0
+      IGUID {A05FF48B-E256-4A63-8378-6F0E17DB24DE}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 60.67062648869399
+      PLAYRATE 1.03802306455426 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B10830C8-1B75-4C26-ABE9-355B84DE0D5E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 90.27591264002331
+      SNAPOFFS 0
+      LENGTH 33.4488293976505
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009632 0 1 0 0 0
+      FADEOUT 1 0.009626 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 B
+      SEL 0
+      IGUID {043331D7-A6F9-4EBC-A426-C68044096579}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 90.31999999999579
+      PLAYRATE 1.03860136888511 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB08D4F4-054F-4EF9-8704-4C53E54B9C94}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 123.72474203767381
+      SNAPOFFS 0
+      LENGTH 3.32483466535231
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009628 0 1 0 0 0
+      FADEOUT 1 0.009632 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 B
+      SEL 0
+      IGUID {D356E331-C3E1-4AC5-9376-9E7307190837}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 125.06
+      PLAYRATE 1.03836090217743 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E1370B2-775F-455F-88FD-F26ACA54D7D8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 127.04957670302612
+      SNAPOFFS 0
+      LENGTH 39.38158971917413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009621 0 1 0 0 0
+      FADEOUT 1 0.009635 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 B
+      SEL 0
+      IGUID {5ACF5176-F469-4D46-80AC-6D9EBED243A7}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 128.51237832270601
+      PLAYRATE 1.03785407374072 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3226D62F-4437-4ADC-A692-B86B8F9BC423}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 166.43116642220025
+      SNAPOFFS 0
+      LENGTH 8.67594943409878
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009633 0 1 0 0 0
+      FADEOUT 1 0.009644 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810176 B
+      SEL 0
+      IGUID {61177BB0-248D-4657-B7DF-917ADFB5F219}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 169.38472164313663
+      PLAYRATE 1.03751591280377 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBD91E8B-51B0-46E1-9422-9677157BE684}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 175.10711585629903
+      SNAPOFFS 0
+      LENGTH 25.52609857783162
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009644 0 1 0 0 0
+      FADEOUT 1 0.009644 0 1 0 0 0
+      MUTE 0 0
+      COLOR 25166079 B
+      SEL 0
+      IGUID {5CE4935A-AF45-4416-8AD8-1A88D1B95CF7}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 178.38615723969502
+      PLAYRATE 1.03675705332438 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09723F3F-4C30-41DB-93C1-282C0E44DBD5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 200.63321443413065
+      SNAPOFFS 0
+      LENGTH 8.59680352928945
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009642 0 1 0 0 0
+      FADEOUT 1 0.009642 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810176 B
+      SEL 0
+      IGUID {57B1B913-2BF3-467E-B277-F9E04A0405D2}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 204.85051998411527
+      PLAYRATE 1.03715075530674 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2861FB95-3D98-437C-A747-4167AD65A66F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 209.2300179634201
+      SNAPOFFS 0
+      LENGTH 17.47741778356243
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009638 0 1 0 0 0
+      FADEOUT 1 0.009634 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521728 B
+      SEL 0
+      IGUID {A8FA04DF-2BA9-4035-B520-073B8E762D20}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 213.76670125774146
+      PLAYRATE 1.0377881577844 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CF276CA-8145-4179-83EE-1E670087924F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 226.70743574698253
+      SNAPOFFS 0
+      LENGTH 32.72445342274892
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00963 0 1 0 0 0
+      FADEOUT 1 0.009635 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 B
+      SEL 0
+      IGUID {164253D6-748E-4F2A-8A9D-A65A4E8590FD}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 231.90455846217301
+      PLAYRATE 1.03774502195892 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24C36FE7-9DF2-449B-864D-63C65ADC2430}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 259.43188916973145
+      SNAPOFFS 0
+      LENGTH 6.50537380518631
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009638 0 1 0 0 0
+      FADEOUT 1 0.009639 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 B
+      SEL 0
+      IGUID {9AC3D09E-CE53-4F06-87B3-B8A4F7D60F79}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 265.86419709795717
+      PLAYRATE 1.03749619434764 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78FE189E-49F0-48C3-8529-931D80637F5C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 265.93726297491776
+      SNAPOFFS 0
+      LENGTH 15.19459209078497
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009636 0 1 0 0 0
+      FADEOUT 1 0.009642 0 1 0 0 0
+      MUTE 0 0
+      COLOR 21004416 B
+      SEL 0
+      IGUID {F08F1F4D-04E4-4237-B7DB-0F215FCF701F}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 272.6134976636468
+      PLAYRATE 1.03753658682502 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91B4DFC3-1B18-48DD-A478-34167E7D4E87}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 281.13185506570272
+      SNAPOFFS 0
+      LENGTH 2.19704516763636
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009634 0 1 0 0 0
+      FADEOUT 1 0.009634 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {33615916-7252-4C41-81B6-0EE7CCF12EB7}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 288.37844287971831
+      PLAYRATE 1.03800921897522 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1902A8D9-D467-4A82-8BF1-FD65C9938A98}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 283.32890023333908
+      SNAPOFFS 0
+      LENGTH 2.53659007418997
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009634 0 1 0 0 0
+      FADEOUT 1 0.009634 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D90C203-D33D-490F-BCE6-F97D7EFF3EBF}
+      IID 2
+      NAME "even-flow-drums-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 290.6589960182298
+      PLAYRATE 1.03800921897519 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EF0F05A-33F9-4E15-A2C4-C4AB325AC4AE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-drums-D major-106bpm-450hz.m4a"
+      >
+    >
+  >
+  <TRACK {D96CF91F-020D-426A-B9FB-193457770640}
+    NAME SONG
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D96CF91F-020D-426A-B9FB-193457770640}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.31140186915888
+      SNAPOFFS 0
+      LENGTH 282.55336326709681
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.009626 0 1 0 0 0
       FADEOUT 1 0.009634 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {693BFC72-0075-46C1-AB2A-A1F8CCD5B358}
-      IID 4
-      NAME "even-flow-other-D major-106bpm-450hz.m4a"
+      IGUID {2830E105-1D16-4ADD-8426-29FEA83B1A57}
+      IID 6
+      NAME even-flow.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
-      PLAYRATE 1.03800302986581 1 0 -1 0 0.0025
+      PLAYRATE 1.03800302984992 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8A8ED2BB-841A-41FC-A494-FD3045F67F40}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/even-flow-other-D major-106bpm-450hz.m4a"
+      GUID {1EDEAF8E-4A2E-456E-B641-1DF5B576EDB3}
+      <SOURCE MP3
+        FILE "audio-in/even-flow.mp3" 1
       >
     >
   >
@@ -2280,6 +2537,53 @@
       >
     >
   >
+  <TRACK {56ED1BE7-308C-4F87-AC79-4CEFC8A23953}
+    NAME GUITAR
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {56ED1BE7-308C-4F87-AC79-4CEFC8A23953}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.31140186915888
+      SNAPOFFS 0
+      LENGTH 282.55408843837023
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.009626 0 1 0 0 0
+      FADEOUT 1 0.009634 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {693BFC72-0075-46C1-AB2A-A1F8CCD5B358}
+      IID 4
+      NAME "even-flow-other-D major-106bpm-450hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.03800302986581 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A8ED2BB-841A-41FC-A494-FD3045F67F40}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-other-D major-106bpm-450hz.m4a"
+      >
+    >
+  >
   <TRACK {76F07E6D-8CEC-4839-ACD7-7B08773A43B5}
     NAME VOX
     PEAKCOL 16576
@@ -2324,310 +2628,6 @@
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in/even-flow-vocals-D major-106bpm-450hz.m4a"
-      >
-    >
-  >
-  <TRACK {D96CF91F-020D-426A-B9FB-193457770640}
-    NAME SONG
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {D96CF91F-020D-426A-B9FB-193457770640}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.31140186915888
-      SNAPOFFS 0
-      LENGTH 282.55336326709681
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009626 0 1 0 0 0
-      FADEOUT 1 0.009634 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2830E105-1D16-4ADD-8426-29FEA83B1A57}
-      IID 6
-      NAME even-flow.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1.03800302984992 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1EDEAF8E-4A2E-456E-B641-1DF5B576EDB3}
-      <SOURCE MP3
-        FILE "audio-in/even-flow.mp3" 1
-      >
-    >
-  >
-  <TRACK {391C0569-4944-624B-B912-FF3B3BCA653A}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 1 1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {391C0569-4944-624B-B912-FF3B3BCA653A}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-  >
-  <TRACK {7407EC5C-CA74-C747-BD3C-CC4B2C0E2766}
-    NAME VIDEO
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.60115247317422 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {7407EC5C-CA74-C747-BD3C-CC4B2C0E2766}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 2.95164748236214
-      SNAPOFFS 0
-      LENGTH 282.58440612631875
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.009626 0 1 0 0 0
-      FADEOUT 1 0.009634 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {49C529F2-DB2F-6247-846F-62C062DD3030}
-      IID 227
-      NAME pearl-jam-even-flow-drum-cover.mp4
-      VOLPAN 1 0 1 -1
-      SOFFS 8.83747572813323
-      PLAYRATE 0.9542000062363 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BC7BBFFE-45F7-2B42-830D-51653271DC59}
-      <SOURCE VIDEO
-        FILE "video-in/pearl-jam-even-flow-drum-cover.mp4"
-      >
-    >
-  >
-  <TRACK {5B98AD2B-33DE-534E-82CD-4D30EE839ED0}
-    NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {5B98AD2B-33DE-534E-82CD-4D30EE839ED0}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.14656251429002
-      SNAPOFFS 0
-      LENGTH 281.99970325341769
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {1782E74A-B19E-FA41-839C-029BF3AEC193}
-      IID 233
-      NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 9.06419217729789
-      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {492BCE75-756E-0049-97C8-5EA5AA0A5EFE}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/pearl-jam-even-flow-drum-cover-drums-G major-112bpm.m4a"
-      >
-    >
-  >
-  <TRACK {AA4EE812-FA8D-B148-A9EF-2149F08A081F}
-    NAME "pearl-jam-even-flow-drum-cover-bass-G major-112bpm"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {AA4EE812-FA8D-B148-A9EF-2149F08A081F}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.14656251429002
-      SNAPOFFS 0
-      LENGTH 281.99970325341769
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {D399D3E6-0812-D84E-8740-0F6C9B3B4CDD}
-      IID 232
-      NAME "pearl-jam-even-flow-drum-cover-bass-G major-112bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 9.06419217729789
-      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {919CE7A0-EBD0-3946-A4DF-820B58605F71}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/pearl-jam-even-flow-drum-cover-bass-G major-112bpm.m4a"
-      >
-    >
-  >
-  <TRACK {1C5F41A7-AA8E-CC4F-AE17-39219FDC8AD1}
-    NAME "pearl-jam-even-flow-drum-cover-other-G major-112bpm"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {1C5F41A7-AA8E-CC4F-AE17-39219FDC8AD1}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.14656251429002
-      SNAPOFFS 0
-      LENGTH 281.99970325341769
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {8E5AA0A8-4599-7C40-BABA-132309F1E46B}
-      IID 234
-      NAME "pearl-jam-even-flow-drum-cover-other-G major-112bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 9.06419217729789
-      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9CEBA2F8-A257-684F-B83F-3D325FAA0AF9}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/pearl-jam-even-flow-drum-cover-other-G major-112bpm.m4a"
-      >
-    >
-  >
-  <TRACK {5930B889-7726-AF4B-8C85-BBC7217D9C00}
-    NAME "pearl-jam-even-flow-drum-cover-vocals-G major-112bpm"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {5930B889-7726-AF4B-8C85-BBC7217D9C00}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.14656251429002
-      SNAPOFFS 0
-      LENGTH 281.99970325341769
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {166C5A30-E125-5443-BFFC-5ABF201E3FBC}
-      IID 235
-      NAME "pearl-jam-even-flow-drum-cover-vocals-G major-112bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 9.06419217729789
-      PLAYRATE 0.95419606872278 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BE9AFA55-9E2A-804F-A57F-95B6BF8FDD71}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/pearl-jam-even-flow-drum-cover-vocals-G major-112bpm.m4a"
       >
     >
   >
