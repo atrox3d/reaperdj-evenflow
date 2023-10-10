@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1696917588
+<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1696917689
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,7 +16,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
+  CURSOR 4.48598130841122
   ZOOM 45.29564647945273 0 0
   VZOOMEX 2 0
   USE_REC_CFG 0
@@ -2374,7 +2374,7 @@
     >
   >
   <TRACK {391C0569-4944-624B-B912-FF3B3BCA653A}
-    NAME ""
+    NAME VIDEO
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2385,7 +2385,7 @@
     ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2444,7 +2444,7 @@
     >
   >
   <TRACK {5B98AD2B-33DE-534E-82CD-4D30EE839ED0}
-    NAME "pearl-jam-even-flow-drum-cover-drums-G major-112bpm"
+    NAME DRUMS
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2491,7 +2491,7 @@
     >
   >
   <TRACK {AA4EE812-FA8D-B148-A9EF-2149F08A081F}
-    NAME "pearl-jam-even-flow-drum-cover-bass-G major-112bpm"
+    NAME BASS
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2538,7 +2538,7 @@
     >
   >
   <TRACK {1C5F41A7-AA8E-CC4F-AE17-39219FDC8AD1}
-    NAME "pearl-jam-even-flow-drum-cover-other-G major-112bpm"
+    NAME GUITAR
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2585,7 +2585,7 @@
     >
   >
   <TRACK {5930B889-7726-AF4B-8C85-BBC7217D9C00}
-    NAME "pearl-jam-even-flow-drum-cover-vocals-G major-112bpm"
+    NAME VOX
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2596,7 +2596,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
